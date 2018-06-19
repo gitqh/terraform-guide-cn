@@ -26,3 +26,16 @@
     * [Cross Provider](Example Configurations/Cross_Provider.md)
     * [Count Parameter](Example Configurations/Count_Parameter.md)
     * [Consul](Example Configurations/Consul.md)
+
+### Terraform Recommended Practices
+
+* [Terraform Recommended Practices](Terraform Recommended Practices/README.md)
+    * [Workflow Overview](Terraform Recommended Practices/Workflow_Overview.md)
+    * [Evaluating Current Practices](Terraform Recommended Practices/Evaluating_Current_Practices.md)
+    * [Evolving Your Practices](Terraform Recommended Practices/Evolving_Your_Practices.md)
+    * [From Manual to Semi-Automated](Terraform Recommended Practices/From_Manual_to_Semi-Automated.md)
+    * [From Semi-Automated to Infrastructure as Code](Terraform Recommended Practices/From_Semi-Automated_to_Infrastructure_as_Code.md)
+    * [From Infrastructure as Code to Collaborative laC](Terraform Recommended Practices/From_Infrastructure_as_Code_to_Collaborative_laC.md)
+    * [Advanced Improvements](Terraform Recommended Practices/Advanced_Improvements.md)
+* [Running Terraform in Automation](Running Terraform in Automation/README.md)
+* [Terraform Provider Development Program](Terraform Provider Development Program/README.md)
