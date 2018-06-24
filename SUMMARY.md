@@ -132,3 +132,17 @@
     * [Internal Plugins](Internals/Internal_Plugins.md)
 
 ### Extend
+
+* [Extending Terraform](Extending Terraform/README.md)
+* [How Terraform Works](How Terraform Works/README.md)
+* [Plugin Types](Plugin Types/README.md)
+* [Writing Custom Providers](Writing Custom Providers/README.md)
+* [Schemas](Schemas/README.md)
+    * [Schemas Types](Schemas /Schemas_Types.md)
+    * [Schemas Behaviors](Schemas/Schemas_Behaviors.md)
+* [Best Practices](Best Practices/README.md)
+* [Testing](Testing/README.md)
+    * [Detecting Drift](Testing/Detecting_Drift.md)
+* [Community](Community/README.md)
+    * [Contributing](Community/Contributing.md)
+    * [Code of Conduct](Community/Code_of_Conduct.md)
