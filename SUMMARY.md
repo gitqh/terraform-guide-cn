@@ -1,7 +1,7 @@
 # Summary
 
-### Intro
-
+## Intro
+* [Introduction](README.md)
 * [What is Terraform](What is Terraform/README.md)
 * [Use Cases](Use Cases/README.md)
 * [Terraform vs Other](Terraform vs Other/README.md)
@@ -27,8 +27,7 @@
     * [Count Parameter](Example Configurations/Count_Parameter.md)
     * [Consul](Example Configurations/Consul.md)
 
-### Guides
-
+## Guides
 * [Terraform Recommended Practices](Terraform Recommended Practices/README.md)
     * [Workflow Overview](Terraform Recommended Practices/Workflow_Overview.md)
     * [Evaluating Current Practices](Terraform Recommended Practices/Evaluating_Current_Practices.md)
@@ -40,8 +39,7 @@
 * [Running Terraform in Automation](Running Terraform in Automation/README.md)
 * [Terraform Provider Development Program](Terraform Provider Development Program/README.md)
 
-### Docs
-
+## Docs
 * [Configuration](Configuration/README.md)
     * [Load Order and Semantics](Configuration/Load_Order_and_Semantics.md)
     * [Cofiguration Syntax](Configuration/Cofiguration_Syntax.md)
@@ -55,31 +53,31 @@
     * [Local Values](Configuration/Local_Values.md)
     * [Modules](Configuration/Modules.md)
     * [Terraform](Configuration/Terraform.md)
-    * [Terraform Push(deprecated)](Configuration/Terraform_Push(deprecated).md)
+    * [Terraform Push(deprecated)](Configuration/Terraform_Push(deprecated)
     * [Environment Variables](Configuration/Environment_Variables.md)
-* [Commands(CLI)](Commands(CLI)/README.md)
-    * [apply](Commands(CLI)/apply.md)
-    * [console](Commands(CLI)/console.md)
-    * [destroy](Commands(CLI)/destroy.md)
-    * [env](Commands(CLI)/env.md)
-    * [fmt](Commands(CLI)/fmt.md)
-    * [force-unlock](Commands(CLI)/force-unlock.md)
-    * [get](Commands(CLI)/get.md)
-    * [graph](Commands(CLI)/graph.md)
-    * [import](Commands(CLI)/import.md)
-    * [init](Commands(CLI)/init.md)
-    * [output](Commands(CLI)/output.md)
-    * [plan](Commands(CLI)/plan.md)
-    * [providers](Commands(CLI)/providers.md)
-    * [push](Commands(CLI)/push.md)
-    * [refresh](Commands(CLI)/refresh.md)
-    * [show](Commands(CLI)/show.md)
-    * [state](Commands(CLI)/state.md)
-    * [taint](Commands(CLI)/taint.md)
-    * [validate](Commands(CLI)/validate.md)
-    * [untaint](Commands(CLI)/untaint.md)
-    * [workspace](Commands(CLI)/workspace.md)
-    * [CLI Config File](Commands(CLI)/CLI_Config_File.md)
+* [Commands(CLI)](Commands(CLI)
+    * [apply](Commands(CLI)
+    * [console](Commands(CLI)
+    * [destroy](Commands(CLI)
+    * [env](Commands(CLI)
+    * [fmt](Commands(CLI)
+    * [force-unlock](Commands(CLI)
+    * [get](Commands(CLI)
+    * [graph](Commands(CLI)
+    * [import](Commands(CLI)
+    * [init](Commands(CLI)
+    * [output](Commands(CLI)
+    * [plan](Commands(CLI)
+    * [providers](Commands(CLI)
+    * [push](Commands(CLI)
+    * [refresh](Commands(CLI)
+    * [show](Commands(CLI)
+    * [state](Commands(CLI)
+    * [taint](Commands(CLI)
+    * [validate](Commands(CLI)
+    * [untaint](Commands(CLI)
+    * [workspace](Commands(CLI)
+    * [CLI Config File](Commands(CLI)
 * [Import](Import/README.md)
     * [Usage](Import/Usage.md)
     * [Resource Importability](Import/Resource_Importability.md)
@@ -97,9 +95,6 @@
     * [Network](Providers/Network.md)
     * [VCS](Providers/VCS.md)
     * [Monitor & System Management](Providers/Monitor_System_Management.md)
-    * [](Providers/.md)
-    * [](Providers/.md)
-    * [](Providers/.md)
 * [Provisioners](Provisioners/README.md)
     * [chef](Provisioners/chef.md)
     * [connection](Provisioners/connection.md)
@@ -131,8 +126,7 @@
     * [Remote Service Discovery](Internals/Remote_Service_Discovery.md)
     * [Internal Plugins](Internals/Internal_Plugins.md)
 
-### Extend
-
+## Extend
 * [Extending Terraform](Extending Terraform/README.md)
 * [How Terraform Works](How Terraform Works/README.md)
 * [Plugin Types](Plugin Types/README.md)
@@ -146,3 +140,4 @@
 * [Community](Community/README.md)
     * [Contributing](Community/Contributing.md)
     * [Code of Conduct](Community/Code_of_Conduct.md)
+
