@@ -1,0 +1,2 @@
+# Terraform Recommended Practices
+
